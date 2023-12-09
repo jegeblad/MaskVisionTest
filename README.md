@@ -30,9 +30,9 @@ This performs the segmentation on the following image
 
 And should output the masks of the objects found as well as the following separate images:
 
-![image](test_image/masked_image_0.png)
-![image](test_image/masked_image_1.png)
-![image](test_image/masked_image_2.png)
-![image](test_image/masked_image_3.png)
+![image](test_output/masked_image_0.png)
+![image](test_output/masked_image_1.png)
+![image](test_output/masked_image_2.png)
+![image](test_output/masked_image_3.png)
 
 The first output masked image is the background.
