@@ -4,9 +4,12 @@ Command line example with Apple Vision foreground masking.
 
 ## Description
 
-I couldn't find any simple implementation example in Objective-C of Apple's Vision framework for foreground masking, so I made this small example and personal test.  
-
 This is a small example / experiment with Apple Vision's framework Foreground Masking, which segments foreground objects from the background in an image.
+
+I couldn't find any simple implementation example in Objective-C of Apple's Vision framework for foreground masking, so I made this small one-file example and test to experiment with the new feature.
+The result is not quite a good as I hope, but it is interesting. 
+
+Everything is contained in the `MasingTest/main.m` file.
 
 It uses:
 
