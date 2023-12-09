@@ -9,7 +9,7 @@ This is a small example / experiment with Apple Vision's framework Foreground Ma
 I couldn't find any simple implementation example in Objective-C of Apple's Vision framework for foreground masking. So I made this small one-file example to test the new feature of iOS17 and macOS14.
 The result is not quite a good as I hoped, but it is interesting. 
 
-Everything is contained in the `MasingTest/main.m` file.
+Everything is contained in the `MaskingTest/main.m` file.
 
 It uses:
 
